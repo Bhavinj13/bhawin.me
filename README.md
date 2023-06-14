@@ -1,2 +1,2 @@
-# bhawin.me
- Resume website
+Bhavin Jobanputra
+Personal resume website built using HTML,CSS,Javascript
